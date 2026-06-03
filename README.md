@@ -32,7 +32,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/saveyourself-sudo/WDTT-witho
 Во время установки будет предложено указать:
 
 * Пароль VPN (по умолчанию: `000`)
-* DNS-серверы (по умолчанию: `77.88.8.8,77.88.8.1` — Яндекс DNS)
 * Telegram Bot Token (необязательно)
 * Telegram Admin ID (необязательно)
 * DTLS порт (по умолчанию: `56000`)
