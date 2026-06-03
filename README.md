@@ -1,5 +1,5 @@
 # WDTT without Android
-
+<img src="https://raw.githubusercontent.com/saveyourself-sudo/WDTT-without-android/main/images/interface.jpg" width="800">
 Установка **WDTT VPN Server** напрямую на VPS без использования Android-устройства.
 
 Скрипт автоматически:
