@@ -1,5 +1,5 @@
 ## Quick Start
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/coinman-dev/3ax-ui/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/saveyourself-sudo/WDTT-without-android/main/install-wdtt.sh)
 ```
